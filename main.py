@@ -1,2 +1,4 @@
-test=3
-print(test)
+def test():
+  test=34
+  print(test)
+test()
