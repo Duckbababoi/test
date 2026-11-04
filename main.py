@@ -1,4 +1,3 @@
-def test():
-  test=34
-  print(test)
-test()
+a=input('nacti a')
+b=input("nacti b")
+c=input("nacti c")
